@@ -1,2 +1,4 @@
-# lab4
-Lab 4 - Build the Audience, Then Buy It
+# Lab 4 — Build the Audience, Then Buy It
+
+**Name:** Adelina Khytrenko  
+**Group:** KM-43
